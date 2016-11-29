@@ -1,0 +1,17 @@
+<group>
+	<velocidad>150</velocidad>
+	<potencia>252</potencia>
+	<aceleracion>5</aceleracion>
+	<Periodo>2.62</Periodo>
+<group/>
+<Refresco>40.96</Refresco>
+<velocidad_A>2000</velocidad_A>
+	<potencia_A>200</potencia_A>
+	<aceleracion_A>53</aceleracion_A>
+	<velocidad_B>330</velocidad_B>
+	<potencia_B>198</potencia_B>
+	<aceleracion_B>10</aceleracion_B>
+<Periodo_A>4</Periodo_A>
+<Pos__Ini__A>0</Pos__Ini__A>
+	<Pos__Fin_A>-35712</Pos__Fin_A>
+</group>
